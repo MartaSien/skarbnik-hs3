@@ -29,7 +29,7 @@
 - aktualna liczba patronów
 - osobne listy patronów:
     - nowych
-    - tych którzy zmienili składkę 
+    - tych którzy zmienili składkę
     - przestali nas wspierać w danym miesiącu
     - przekroczyli 3 mies. ciągłego wsparcia
 
@@ -63,6 +63,6 @@
     - [ ] patroni podzieleni na [progi wsparcia](https://patronite.pl/hs3)
     - [ ] oznaczenie zmian w składkach patronów
 - [ ] UX/UI - estetyczna i czytelna prezentacja danych
-- [ ] CI/CD - sposób publikacji raportów, 
+- [ ] CI/CD - sposób publikacji raportów,
 - [ ] CI/CD - testy + commit hook sprawdzający anonimowość danych
 - [ ] CI/CD - porównanie czy wyciąg z konta zgadza się z raportem z patronite i inne możliwe oczywiste sprawdzenia czy sumy się zgadzają
